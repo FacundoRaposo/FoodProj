@@ -1,0 +1,22 @@
+.mealitem{
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    padding-bottom: 1rem;
+    border-bottom: 1px solid black;
+}
+.mealitem h3{
+    font-weight: bold;
+
+}
+
+.description {
+    font-style: italic;
+}
+
+.price {
+    margin-top: 0.25rem;
+    font-weight: bold;
+    color: #ad5502;
+    font-size: 1.25rem;
+}
